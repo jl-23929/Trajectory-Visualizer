@@ -9,8 +9,5 @@
         <module name="ftclibpathvis" />
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel>
-      <module name="ftclibpathvis" target="17" />
-    </bytecodeTargetLevel>
   </component>
 </project>
